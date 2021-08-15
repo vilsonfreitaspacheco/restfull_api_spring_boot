@@ -18,7 +18,7 @@ POST: http://localhost:8080/movie/
 PUT: http://localhost:8080/movie/  
 DELETE : http://localhost:8080/movie/id  
 
-### Body exemplo PUT e POST 
+### Body POST 
 {
   "year":2021,
   "title":"Viúva Negra"
