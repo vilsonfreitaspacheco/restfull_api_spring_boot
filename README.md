@@ -12,11 +12,11 @@ http://localhost:8080/movie/producers
 ### Methods HTTP implementados
 GET, PUT, POST, DELETE
 
-GET : http://localhost:8080/movie/
-GET : http://localhost:8080/movie/id
-POST: http://localhost:8080/movie/
-PUT: http://localhost:8080/movie/
-DELETE : http://localhost:8080/movie/id
+GET : http://localhost:8080/movie/\
+GET : http://localhost:8080/movie/id\
+POST: http://localhost:8080/movie/\
+PUT: http://localhost:8080/movie/\
+DELETE : http://localhost:8080/movie/id\
 
 ### Body exemplo PUT e POST 
 {
