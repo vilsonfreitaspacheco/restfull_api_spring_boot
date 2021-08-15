@@ -1,15 +1,15 @@
 
 
-## Install dependecias
+### Install dependecias
 mvn install
 
-## Start app
+### Start app
 mvn spring-boot:run
 
 ### A URL abaixo retorna os produtores com maior intervalo entre dois prêmios consecutivos, e também para os produtores que obteve dois prêmios mais rápido
 http://localhost:8080/movie/producers
 
-## Methods HTTP implementados
+### Methods HTTP implementados
 GET, PUT, POST, DELETE
 
 GET : http://localhost:8080/movie/
@@ -18,7 +18,7 @@ POST: http://localhost:8080/movie/
 PUT: http://localhost:8080/movie/
 DELETE : http://localhost:8080/movie/id
 
-## Body exemplo PUT e POST 
+### Body exemplo PUT e POST 
 {
   "year":2021,
   "title":"Viúva Negra"
